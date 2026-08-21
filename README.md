@@ -30,6 +30,8 @@ You can download the quick install file from the release page.
 
 3. Once the installation is complete, run the Depth3D-Run.bat file.
 
+4. Launch an OpenXR-supported PC program (such as Virtual Desktop or SteamVR) on your VR headset and click 'Start 3D Conversion' to view your 3D-converted PC screen on a virtual VR display.
+
 ---
 
 ## Development Environment, Installation, and Usage
@@ -158,12 +160,24 @@ Switch to OpenXR mode in Virtual Desktop, SteamVR, or a similar application, the
 |---|---|
 | Analog stick (up/down) | Mouse scroll |
 | Analog stick (left/right) | Adjust 3D Strength |
+| Analog stick button | Recenter view |
 | Trigger button | Left mouse click |
 | Grip button | Hold and move the controller up/down to adjust screen height |
 | A / X button | Right mouse click |
 | B / Y button | Toggle Letterbox Remove ON/OFF |
 
 ---
+
+## QnA
+
+Q: The letterbox removal feature isn't working.
+A: If there is text inside the letterbox or the resolution is not the standard 16:9 aspect ratio, the letterbox may not be recognized.
+
+Q: I only see a black screen on streaming sites like Netflix or Disney+.
+A: Screen capture is blocked due to DRM protection policies. Try disabling hardware acceleration in your web browser settings.
+
+Q: The game screen is cropped or displaying incorrectly.
+A: Because this app relies on screen capture, full-screen mode may not work properly. Try changing the game's display settings to 'Windowed' or 'Borderless Windowed' mode.
 
 ## Credits (Acknowledgements)
 
