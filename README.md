@@ -1,10 +1,10 @@
-# Depth3D (Live3D)
+# DepthLive3D
 
-![Icon](https://raw.githubusercontent.com/wake-82/Depth3D/refs/heads/main/icon.ico)
+![Icon](https://raw.githubusercontent.com/wake-82/DepthLive3D/refs/heads/main/icon.ico)
 
-## What is Depth3D?
+## What is DepthLive3D?
 
-Depth3D is a free program that uses AI-based depth mapping and OpenXR technology to convert PC screen into 3D screen in real time within a VR environment.
+DepthLive3D is a free program that uses AI-based depth mapping and OpenXR technology to convert PC screen into 3D screen in real time within a VR environment.
 
 ## Requirements
 
@@ -20,7 +20,7 @@ Depth3D is a free program that uses AI-based depth mapping and OpenXR technology
   
 ---
 
-## Depth3D Windows 10 & 11 Quick Installation Guide
+## DepthLive3D Windows 10 & 11 Quick Installation Guide
 
 1. Install the Microsoft Visual C++ Redistributable x64 package first (vc_redist.x64.exe):
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
@@ -28,7 +28,7 @@ https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=ms
 2. Run old-gpu-install.bat if you are using an NVIDIA GTX 10-series GPU, or new-gpu-install.bat if you have an RTX 20-series GPU or higher.
 You can download the quick install file from the release page.
 
-3. Once the installation is complete, run the Depth3D-Run.bat file.
+3. Once the installation is complete, run the DepthLive3D-Run.bat file.
 
 4. Launch an OpenXR-supported PC program (such as Virtual Desktop or SteamVR) on your VR headset and click 'Start 3D Conversion' to view your 3D-converted PC screen on a virtual VR display.
 
@@ -40,12 +40,12 @@ You can download the quick install file from the release page.
 
 ### 2. Create a folder
 ```
-mkdir c:\Depth3D
+mkdir c:\DepthLive3D
 ```
 
 ### 3. Move into the folder
 ```
-cd c:\Depth3D
+cd c:\DepthLive3D
 ```
 
 *(Optional)* If you want to install inside a virtual environment, run the following commands in order to activate it:
@@ -70,19 +70,19 @@ pip install -r requirements.txt
 pip install -e .
 ```
 
-### 5. Install the Depth Live 3D libraries
+### 5. Install the DepthLive3D libraries
 ```
 pip install PySide6 pywin32 dxcam PyOpenGL PyOpenGL_accelerate pyopenxr glfw psutil
 ```
 
 ### 6. Move back to the base folder
 ```
-cd c:\Depth3D
+cd c:\DepthLive3D
 ```
 
-### 7. Install Depth3D
+### 7. Install DepthLive3D
 ```
-git clone https://github.com/wake-82/Depth3D.git
+git clone https://github.com/wake-82/DepthLive3D.git
 ```
 
 ### 8. Install PyTorch (CUDA)
@@ -109,20 +109,20 @@ True
 
 ### 9. Run the program
 ```
-cd c:\Depth3D
-python Depth3D.py
+cd c:\DepthLive3D
+python DepthLive3D.py
 ```
 
 If you installed it inside a virtual environment, run the following instead:
 ```
-cd c:\Depth3D
+cd c:\DepthLive3D
 venv\Scripts\activate
-python Depth3D.py
+python DepthLive3D.py
 ```
 
 ### 10. Start the conversion
 
-Switch to OpenXR mode in Virtual Desktop, SteamVR, or a similar application, then click the "Start 3D Conversion" button in Depth3D. The program will capture your computer screen and output a real-time 3D-converted image to the virtual screen.
+Switch to OpenXR mode in Virtual Desktop, SteamVR, or a similar application, then click the "Start 3D Conversion" button in DepthLive3D. The program will capture your computer screen and output a real-time 3D-converted image to the virtual screen.
 
 ---
 
