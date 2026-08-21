@@ -12,12 +12,12 @@ Depth3D is a free program that uses AI-based depth mapping and OpenXR technology
 
 ### 2. Create a folder
 ```
-mkdir c:\depth3D
+mkdir c:\Depth3D
 ```
 
 ### 3. Move into the folder
 ```
-cd c:\depth3D
+cd c:\Depth3D
 ```
 
 *(Optional)* If you want to install inside a virtual environment, run the following commands in order to activate it:
@@ -49,7 +49,7 @@ pip install PySide6 pywin32 dxcam PyOpenGL PyOpenGL_accelerate pyopenxr glfw psu
 
 ### 6. Move back to the base folder
 ```
-cd c:\depth3D
+cd c:\Depth3D
 ```
 
 ### 7. Install Depth3D
@@ -81,13 +81,13 @@ True
 
 ### 9. Run the program
 ```
-cd c:\depth3D
+cd c:\Depth3D
 python Depth3D.py
 ```
 
 If you installed it inside a virtual environment, run the following instead:
 ```
-cd c:\depth3D
+cd c:\Depth3D
 venv\Scripts\activate
 python Depth3D.py
 ```
