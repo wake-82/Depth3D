@@ -1,0 +1,2 @@
+Qt/PySide6 LICENSE Link
+https://doc.qt.io/qtforpython/licenses.html
