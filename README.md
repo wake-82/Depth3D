@@ -54,7 +54,7 @@ cd c:\depth3D
 
 ### 7. Install Depth3D
 ```
-git clone https://github.com/wake-82/depth3D.git
+git clone https://github.com/wake-82/Depth3D.git
 ```
 
 ### 8. Install PyTorch (CUDA)
