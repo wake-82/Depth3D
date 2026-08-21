@@ -52,7 +52,7 @@ pip install PySide6 pywin32 dxcam PyOpenGL PyOpenGL_accelerate pyopenxr glfw psu
 cd c:\depth3D
 ```
 
-### 7. Install DepthLive3D
+### 7. Install Depth3D
 ```
 git clone https://github.com/wake-82/depth3D.git
 ```
@@ -82,14 +82,14 @@ True
 ### 9. Run the program
 ```
 cd c:\depth3D
-python DepthLive3d.py
+python Depth3D.py
 ```
 
 If you installed it inside a virtual environment, run the following instead:
 ```
 cd c:\depth3D
 venv\Scripts\activate
-python DepthLive3d.py
+python Depth3D.py
 ```
 
 ### 10. Start the conversion
