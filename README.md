@@ -122,7 +122,7 @@ python Depth3D.py
 
 ### 10. Start the conversion
 
-Switch to OpenXR mode in Virtual Desktop, SteamVR, or a similar application, then click the "Start 3D Conversion" button in DepthLive3D. The program will capture your computer screen and output a real-time 3D-converted image to the virtual screen.
+Switch to OpenXR mode in Virtual Desktop, SteamVR, or a similar application, then click the "Start 3D Conversion" button in Depth3D. The program will capture your computer screen and output a real-time 3D-converted image to the virtual screen.
 
 ---
 
