@@ -1,0 +1,110 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# --- PyTorch / ML models & checkpoints ---
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+*.bin
+*.pkl
+*.h5
+checkpoints/
+weights/
+models/
+*.cache/
+
+# --- CUDA / GPU logs ---
+*.nvvp
+*.nsys-rep
+
+# --- OpenCV / media outputs ---
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.png
+*.jpg
+*.jpeg
+!docs/**/*.png
+!docs/**/*.jpg
+
+# --- Logs & runtime artifacts ---
+*.log
+logs/
+*.tmp
+*.temp
+output/
+outputs/
+runs/
+
+# --- Screen capture buffers / frames ---
+capture/
+captures/
+frames/
+frame_*.png
+frame_*.jpg
+screenshot_*.png
+*.raw
+*.bmp
+
+# --- 3D conversion results (depth maps, meshes, point clouds) ---
+depth_maps/
+depth/
+*.depth
+*.ply
+*.obj
+*.glb
+*.gltf
+*.stl
+pointcloud/
+mesh_cache/
+
+# --- Real-time processing cache ---
+*.cache
+frame_buffer/
+temp_frames/
+
+# --- IDE / editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS specific ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Windows-specific (win32api/pywin32 related) ---
+*.dll
+!vendor/**/*.dll
+
+# --- Environment / secrets ---
+.env
+.env.*
+*.key
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Distribution / packaging ---
+*.spec
