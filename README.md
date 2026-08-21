@@ -170,14 +170,14 @@ Switch to OpenXR mode in Virtual Desktop, SteamVR, or a similar application, the
 
 ## QnA
 
-- Q: The letterbox removal feature isn't working.
-- A: If there is text inside the letterbox or the resolution is not the standard 16:9 aspect ratio, the letterbox may not be recognized.
+Q: The letterbox removal feature isn't working.<br>
+A: If there is text inside the letterbox or the resolution is not the standard 16:9 aspect ratio, the letterbox may not be recognized.
 
-- Q: I only see a black screen on streaming sites like Netflix or Disney+.
-- A: Screen capture is blocked due to DRM protection policies. Try disabling hardware acceleration in your web browser settings.
+Q: I only see a black screen on streaming sites like Netflix or Disney+.<br>
+A: Screen capture is blocked due to DRM protection policies. Try disabling hardware acceleration in your web browser settings.
 
-- Q: The game screen is cropped or displaying incorrectly.
-- A: Because this app relies on screen capture, full-screen mode may not work properly. Try changing the game's display settings to 'Windowed' or 'Borderless Windowed' mode.
+Q: The game screen is cropped or displaying incorrectly.<br>
+A: Because this app relies on screen capture, full-screen mode may not work properly. Try changing the game's display settings to 'Windowed' or 'Borderless Windowed' mode.
 
 ## Credits (Acknowledgements)
 
