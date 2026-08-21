@@ -162,7 +162,7 @@ Switch to OpenXR mode in Virtual Desktop, SteamVR, or a similar application, the
 | Analog stick (left/right) | Adjust 3D Strength |
 | Analog stick button | Recenter view |
 | Trigger button | Left mouse click |
-| Grip button | Hold and move the controller up/down to adjust screen height |
+| Grip button | Hold the grip button and move the controller up/down to adjust screen height |
 | A / X button | Right mouse click |
 | B / Y button | Toggle Letterbox Remove ON/OFF |
 
