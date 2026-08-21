@@ -1,4 +1,4 @@
-# Depth3D
+# Depth3D (Live3D)
 
 ![Icon](https://raw.githubusercontent.com/wake-82/Depth3D/refs/heads/main/icon.ico)
 
