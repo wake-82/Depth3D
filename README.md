@@ -6,6 +6,18 @@
 
 Depth3D is a free program that uses AI-based depth mapping and OpenXR technology to convert 2D video into 3D video in real time within a VR environment.
 
+## Requirements
+
+- **OS:** Windows 10/11 (64-bit)
+- **GPU:** NVIDIA GPU with CUDA support
+  - GTX 10xx series (Pascal) or older → CUDA 12.6
+  - RTX 20xx / 30xx / 40xx / 50xx series → CUDA 12.8
+- **NVIDIA Driver:** Latest driver recommended (required for CUDA 12.6 / 12.8 support)
+- **Python:** 3.12
+- **Git:** Latest version 
+- **Disk space:** ~10 GB free (for PyTorch, models, and dependencies)
+- **VR headset (optional):** OpenXR-compatible headset, if using VR output
+  
 ---
 
 ## Development Environment, Installation, and Usage
