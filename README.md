@@ -22,13 +22,13 @@ Depth3D is a free program that uses AI-based depth mapping and OpenXR technology
 
 ## Depth3D Windows 10 & 11 Quick Installation Guide
 
-- 1. Install the Microsoft Visual C++ Redistributable x64 package first (vc_redist.x64.exe):
+1. Install the Microsoft Visual C++ Redistributable x64 package first (vc_redist.x64.exe):
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
-- 2. Run old-gpu-install.bat if you are using an NVIDIA GTX 10-series GPU, or new-gpu-install.bat if you have an RTX 20-series GPU or higher.
+2. Run old-gpu-install.bat if you are using an NVIDIA GTX 10-series GPU, or new-gpu-install.bat if you have an RTX 20-series GPU or higher.
 You can download the quick install file from the release page.
 
-- 3. Once the installation is complete, run the Depth3D-Run.bat file.
+3. Once the installation is complete, run the Depth3D-Run.bat file.
 
 ---
 
