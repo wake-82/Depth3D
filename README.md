@@ -156,3 +156,5 @@ Built with the help of:
 - [glfw](https://www.glfw.org/) — zlib/libpng License
 - [pywin32](https://github.com/mhammond/pywin32) — PSF License
 - [psutil](https://github.com/giampaolo/psutil) — BSD-3-Clause License
+
+Full license texts for each third-party library are included in the THIRD_PARTY_LICENSES/ folder.
