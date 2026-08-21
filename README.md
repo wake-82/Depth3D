@@ -4,7 +4,7 @@
 
 ## What is Depth3D?
 
-Depth3D is a free program that uses AI-based depth mapping and OpenXR technology to convert 2D video into 3D video in real time within a VR environment.
+Depth3D is a free program that uses AI-based depth mapping and OpenXR technology to convert 2D screen captures into 3D video in real time within a VR environment.
 
 ## Requirements
 
