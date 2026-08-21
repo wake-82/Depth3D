@@ -1,5 +1,7 @@
 # Depth3D
 
+![Icon](https://raw.githubusercontent.com/wake-82/Depth3D/refs/heads/main/icon.ico)
+
 ## What is Depth3D?
 
 Depth3D is a free program that uses AI-based depth mapping and OpenXR technology to convert 2D video into 3D video in real time within a VR environment.
