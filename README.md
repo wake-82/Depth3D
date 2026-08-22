@@ -25,12 +25,13 @@ DepthLive3D is a free program that uses AI-based depth mapping and OpenXR techno
 1. Install the Microsoft Visual C++ Redistributable x64 package first (vc_redist.x64.exe):
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
-2. Run old-gpu-install.bat if you are using an NVIDIA GTX 10-series GPU, or new-gpu-install.bat if you have an RTX 20-series GPU or higher.
-You can download the quick install file from the release page.
+2. Download the DepthLive 3D installation CMD script from the Releases page and extract it to C:\DepthLive3D.
 
-3. Once the installation is complete, run the DepthLive3D-Run.bat file.
+3. Run old-gpu-install.bat if you are using an NVIDIA GTX 10-series GPU, or new-gpu-install.bat if you have an RTX 20-series GPU or higher.
 
-4. Launch an OpenXR-supported PC program (such as Virtual Desktop or SteamVR) on your VR headset and click 'Start 3D Conversion' to view your 3D-converted PC screen on a virtual VR display.
+4. Once the installation is complete, run the DepthLive3D-Run.bat file.
+
+5. Launch an OpenXR-supported PC program (such as Virtual Desktop or SteamVR) on your VR headset and click 'Start 3D Conversion' to view your 3D-converted PC screen on a virtual VR display.
 
 ---
 
