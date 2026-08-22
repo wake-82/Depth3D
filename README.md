@@ -26,6 +26,7 @@ DepthLive3D is a free program that uses AI-based depth mapping and OpenXR techno
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
 2. Download the DepthLive 3D installation CMD script from the Releases page and extract it to C:\DepthLive3D.
+https://github.com/wake-82/DepthLive3D/releases/tag/VR
 
 3. Run old-gpu-install.bat if you are using an NVIDIA GTX 10-series GPU, or new-gpu-install.bat if you have an RTX 20-series GPU or higher.
 
