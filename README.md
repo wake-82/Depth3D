@@ -180,7 +180,7 @@ A: Screen capture is blocked due to DRM protection policies.<br> Try disabling h
 Q: The game screen is cropped or displaying incorrectly.<br>
 A: Because this app relies on screen capture, full-screen mode may not work properly.<br> Try changing the game's display settings to 'Windowed' or 'Borderless Windowed' mode.
 
-Q: My mouse cursor looks weird, or it disappears when I hover over something clickable.
+Q: My mouse cursor looks weird, or it disappears when I hover over something clickable.<br>
 A: Go to 'Mouse pointer style and color' in Windows Settings and reset it to the default cursor.<br> It should display normally now.
 
 ---
