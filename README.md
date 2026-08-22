@@ -134,8 +134,8 @@ Switch to OpenXR mode in Virtual Desktop, SteamVR, or a similar application, the
 - **Input Monitor** — Selects which monitor to capture. Set to `0` for the main monitor.
 - **Dynamic Resolution Auto Adjust** — Automatically adjusts the resolution dynamically based on the Process Size setting. Enabling this skips resizing and improves frame rate.
 - **CPU Performance** — Selects how many CPU cores to use. Setting this to "High" does not always improve performance — try each mode to find the best setting for your system.
-- **Low VRAM Mode** — Enable this option if the VR screen freezes or the background flickers due to insufficient GPU VRAM.<br> Note that enabling this will reduce the frame rate. 
-Additionally, since this mode uses only the most recent frame, it offers the fastest screen response time. Therefore, if game responsiveness is important to you, enabling this mode can be advantageous. 
+- **Low VRAM Mode** — Enable this option if the VR screen freezes or the background flickers due to insufficient GPU VRAM. Note that enabling this will reduce the frame rate. 
+<br>Additionally, since this mode uses only the most recent frame, it offers the fastest screen response time. Therefore, if game responsiveness is important to you, enabling this mode can be advantageous. 
 - **Auto Mode** — When enabled, Edge Fix and Flicker Reduction are automatically set to optimal values based on the 3D Strength value.
 - **3D Strength** — Adjusts the strength of the 3D effect. Higher strength increases artifacts and depth map flickering. You can adjust this in real time using the `[` and `]` keys.
 - **Convergence** — Adjusts how much the screen appears to pop out or recede. At `0.0`, the background is flat and the foreground pops out. At `1.0`, the background appears deeper and the foreground recedes into the screen. `0.5` is a balanced midpoint between the two.
